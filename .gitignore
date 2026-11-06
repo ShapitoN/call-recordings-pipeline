@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+logs/
+models/
+recordings/
+external-summaries/
+*.webm
+*.mp4
+*.mkv
+*.wav
+*.mp3
+*.ogg
+*.opus
